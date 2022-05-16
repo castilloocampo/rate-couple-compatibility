@@ -87,7 +87,7 @@ const RateCoupleCompatibility = () => {
 
   return (
     <div className='flex justify-center'>
-      <div className='flex flex-col justify-center items-center w-2/3 h-screen bg-indigo-300 rounded-full'>
+      <div className='flex flex-col justify-center items-center w-2/3 h-screen bg-gradient-to-r from-blue-400 via-violet-100 to-green-400 rounded-full'>
         <div className='w-2/5 bg-emerald-500 text-center rounded-xl m-8'>
           <h1 className='item-center'>Calcula la compatibilidad con tu pareja</h1>
         </div>
